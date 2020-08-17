@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**sanadsadhik/sanadsadhik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me: sanadsadhik@gmail.com
+# Hi there 👋
+# 🌱 I’m currently learning Flutter 
+# 📫 How to reach me: sanadsadhik@gmail.com
+# I hope some day to write libraries that will make the life of coders easier
